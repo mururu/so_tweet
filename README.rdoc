@@ -1,32 +1,32 @@
 = so_tweet
 
-* http://github.com/#{github_username}/#{project_name}
+* http://github.com/mururu/so_tweet
 
 == DESCRIPTION:
 
-FIX (describe your package)
+
 
 == FEATURES/PROBLEMS:
 
-* FIX (list of features or problems)
+
 
 == SYNOPSIS:
 
-  FIX (code sample of usage)
+  SoTweet::User.new(user_name, password)
 
 == REQUIREMENTS:
 
-* FIX (list of requirements)
+
 
 == INSTALL:
 
-* FIX (sudo gem install, anything else)
+sudo gem install so_tweet
 
 == LICENSE:
 
 (The MIT License)
 
-Copyright (c) 2011 FIXME full name
+Copyright (c) 2011 mururu
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

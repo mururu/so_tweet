@@ -1,0 +1,7 @@
+
+For more information on so_tweet, see http://so_tweet.rubyforge.org
+
+NOTE: Change this information in PostInstall.txt 
+You can also delete it if you don't want it.
+
+

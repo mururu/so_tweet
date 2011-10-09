@@ -14,7 +14,10 @@ $hoe = Hoe.spec 'so_tweet' do
   self.developer 'mururu', 'yuki.mururu@gmail.com'
   self.post_install_message = 'PostInstall.txt' # TODO remove if post-install message not required
   self.rubyforge_name       = self.name # TODO this is default value
-  # self.extra_deps         = [['activesupport','>= 2.0.2']]
+  self.extra_deps         = [
+                             ['oauth','>= 0.4.1'],
+                             ['rubytter','>= 1.4.1']
+                            ]
 
 end
 
